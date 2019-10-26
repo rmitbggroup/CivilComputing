@@ -1,10 +1,13 @@
 # Welcome to CivilComputing Home page.
 
 [Visualization demos](http://115.146.89.158/index_real_estate.html)
+![Visualization demos](https://i0.wp.com/mingzhaoli.net/wp-content/uploads/2018/08/a.png)
 
 [ConcaveCubes](http://115.146.89.158/ConcaveCubes/)
+![ConcaveCubes](https://i0.wp.com/mingzhaoli.net/wp-content/uploads/2018/08/b-1.png)
 
 [Aoishapes](http://aoishapes.com/)
+![Aoishapes](https://i0.wp.com/mingzhaoli.net/wp-content/uploads/2018/08/c.png)
 
 
 
